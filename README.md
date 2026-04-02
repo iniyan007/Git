@@ -19,3 +19,13 @@
 ## Task-9 Completed ✅ (Branch - main)
 
 ## Task-10 Completed ✅ (Branch - task-10)
+
+---
+
+## Git graph of this repository
+
+![graph](images/img3.png)
+
+![graph](images/img2.png)
+
+![graph](images/img1.png)
